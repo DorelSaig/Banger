@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Banger
 //
-//  Created by Dorel Saig on 23/06/2022.
+//  Created by Dorel Saig on 28/05/2022.
 //
 
 import UIKit

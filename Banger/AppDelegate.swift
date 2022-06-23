@@ -2,18 +2,34 @@
 //  AppDelegate.swift
 //  Banger
 //
-//  Created by Dorel Saig on 23/06/2022.
+//  Created by Dorel Saig on 28/05/2022.
 //
 
 import UIKit
+import FirebaseCore
+import FirebaseStorage
+
+import Kingfisher
+import LocationPickerViewController
+import YPImagePicker
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
+    var data: DataManager?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        FirebaseApp.configure()
+        data = DataManager()
+        
+        var config = YPImagePickerConfiguration()
+        config.shouldSaveNewPicturesToAlbum = false
+        config.startOnScreen = .library
+        config.showsPhotoFilters = false
+        config.showsCrop = .rectangle(ratio: 1)
+        YPImagePickerConfiguration.shared = config
+        
         return true
     }
 
