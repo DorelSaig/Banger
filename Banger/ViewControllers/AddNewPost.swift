@@ -2,7 +2,7 @@ import UIKit
 import YPImagePicker
 import LocationPicker
 import CoreLocation
-import LocationPickerViewController
+//import LocationPickerViewController
 import MapKit
 import Lottie
 

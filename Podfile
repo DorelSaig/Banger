@@ -20,7 +20,6 @@ pod 'SwiftFlags'
 
 
 pod 'LocationPicker'
-pod 'LocationPickerViewController'
 
 pod 'YPImagePicker'
 
