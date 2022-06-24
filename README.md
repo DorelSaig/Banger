@@ -17,10 +17,10 @@
 >Banger is an open source and easy to use app, You can add cities and regions, add your spots and saved the one's you loved in your own favorites collection
 
 ## :link: Menu
->- [Features](https://github.com/DorelSaig/Banger/new/main?readme=1#sparkles-features "Features")
->- [Screenshots](https://github.com/DorelSaig/Banger/new/main?readme=1#iphone-screenshots "Screenshots")
->- [Built Using...](https://github.com/DorelSaig/Banger/new/main?readme=1#hammer_and_wrench-built-using "Built Using...")
->- [Credits](https://github.com/DorelSaig/Banger/new/main?readme=1#credits "Credits")
+>- [Features](https://github.com/DorelSaig/Banger#sparkles-features "Features")
+>- [Screenshots](https://github.com/DorelSaig/Banger#iphone-screenshots "Screenshots")
+>- [Built Using...](https://github.com/DorelSaig/Banger#hammer_and_wrench-built-using "Built Using...")
+>- [Credits](https://github.com/DorelSaig/Banger#pray-credits "Credits")
 
 
 ## :sparkles: Features
